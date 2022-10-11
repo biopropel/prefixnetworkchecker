@@ -1,0 +1,22 @@
+[
+	{"network" : "DITO",
+		"promos" : [
+			{"title" : "Level-Up",
+				"promo" : [
+					{"keyword" : "99", "register" : "thru DITO app", "details" : "30 days validity<br />7GB Data<br />Unlimited Texts to all mobile nextwork<br />Unlimited DITO to DITO Calls<br />300min calls to other mobile network"},
+					{"keyword" : "199", "register" : "thru DITO app", "details" : "30 days validity<br />16GB Data<br />Unlimited Texts to all mobile nextwork<br />Unlimited DITO to DITO Calls<br />300min calls to other mobile network"},
+					{"keyword" : "299", "register" : "thru DITO app", "details" : "30 days validity<br />28GB Data<br />Unlimited Texts to all mobile nextwork<br />Unlimited DITO to DITO Calls<br />300min calls to other mobile network"},
+					{"keyword" : "499", "register" : "thru DITO app", "details" : "30 days validity<br />55GB Data<br />Unlimited Texts to all mobile nextwork<br />Unlimited DITO to DITO Calls<br />300min calls to other mobile network"},
+					{"keyword" : "999", "register" : "thru DITO app", "details" : "30 days validity<br />120GB Data<br />Unlimited Texts to all mobile nextwork<br />Unlimited DITO to DITO Calls<br />300min calls to other mobile network"}
+				]
+			},
+			{"title" : "Data Sheets",
+				"promo" : [
+					{"keyword" : "10 ", "register" : "thru DITO app", "details" : "P10, 1GB valid for 1 day"},
+					{"keyword" : "20 ", "register" : "thru DITO app", "details" : "P20, 2GB valid for 3 days"},
+					{"keyword" : "50 ", "register" : "thru DITO app", "details" : "P50, 5GB valid for 7 days"}
+				]
+			}
+		]
+	}
+]
