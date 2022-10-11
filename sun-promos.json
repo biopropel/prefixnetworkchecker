@@ -1,0 +1,21 @@
+[
+	{"network" : "Sun Mobile", 
+		"promos" : [
+			{"title" : "Wais Loads",
+				"promo" : [
+					{"keyword" : "WAIS100", "register" : "247", "details" : "15 days validity<br />Unlimited Texts to Sun<br />Unlimited Calls to Sun"},
+					{"keyword" : "WAIS200", "register" : "247", "details" : "30 days validity<br />Unlimited Texts to Sun<br />Unlimited Calls to Sun<br />500 texts to Smart and TNT"}
+				]
+			},
+			{"title" : "Sun Extra",
+				"promo" : [
+					{"keyword" : "EALTXT50 ", "register" : "247", "details" : "P50, Unlimited text to all networks"},
+					{"keyword" : "ETCALL50 ", "register" : "247", "details" : "P50, Unlimited calls to TRINET (Sun, Smart, TNT)"},
+					{"keyword" : "EICALL50 ", "register" : "247", "details" : "P50, 255 mins IDD Calls"},
+					{"keyword" : "EDATA50 ", "register" : "247", "details" : "P50, 100MB"},
+					{"keyword" : "EDATA100 ", "register" : "247", "details" : "P100, 200MB"}
+				]
+			}
+		]
+	}
+]
