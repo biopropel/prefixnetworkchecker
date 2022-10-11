@@ -1,0 +1,27 @@
+[
+	{"network" : "Talk n Text (TNT))", 
+		"promos" : [
+			{"title" : "Call, Text, Data Promos",
+				"promo" : [
+					{"keyword" : "AM15", "register" : "4545", "details" : "Unlitext to all + 60 mins<br />Calls to TNT/Smart/Sun + 100MB<br />Facebook, Twitter, Viber, Clash of Clans, and Dubsmash<br />Valid for 1 day for P15!"},
+					{"keyword" : "SC20", "register" : "4545", "details" : "Unlitext to TNT/Smart/Sun + Unlicall to TNT/Smart/Sun + 50MB open access<br />Valid for 2 days for just P20!"},
+					{"keyword" : "PC30", "register" : "4545", "details" : "Unlitext to all + 60 mins calls to TNT/Smart/Sun + 200MB open access<br />Valid for 3 days for just P30!"},
+					{"keyword" : "T20", "register" : "4545", "details" : "Unlitext to all + Unli calls to TNT/Smart/Sun + 100MB of Tropa Apps<br />Valid for 1 day for just P20!"},
+					{"keyword" : "T100", "register" : "4545", "details" : "Unlitext to all + Unli calls to TNT/Smart/Sun + 100MB of Tropa Apps<br />Valid for 7 days for just P100!"},
+					{"keyword" : "U20", "register" : "4545", "details" : "Unlitext + 20 mins. calls to TNT/Smart/Sun + 50 texts to all<br />Vlid for 3 days for P20!"},
+					{"keyword" : "PC60", "register" : "4545", "details" : "Unlitext to all + 100 mins calls to TNT/Smart/Sun + 500MB open access<br />Valid for 7 days for just P60!"},
+					{"keyword" : "SC70", "register" : "4545", "details" : "Unlitext to TNT/Smart/Sun + Unlicall to TNT/Smart/Sun + 300MB open access<br />Valid for 5 days for P70!"}
+				]
+			},
+			{"title" : "SurfSaya Promos",
+				"promo" : [
+					{"keyword" : "SurfSaya20", "register" : "via *123", "details" : "P20, 2 days unlimited all-net calls and texts<br />600MB data, 150MB per day facebook, tiktok, instagram, games + 300MB for all sites and apps"},
+					{"keyword" : "SurfSaya30", "register" : "via *123", "details" : "P30, 3 days unlimited all-net calls and texts<br />1.2GB data, 250MB per day facebook, tiktok, instagram, games + 450MB for all sites and apps"},
+					{"keyword" : "SurfSaya49", "register" : "via *123", "details" : "P49, 7 days unlimited all-net calls and texts<br />100MB data, 150MB per day facebook, tiktok, instagram, games + 500MB for all sites and apps"},
+					{"keyword" : "SurfSaya99", "register" : "via *123", "details" : "P99, 7 days unlimited all-net calls and texts<br />2.2GB data, 100MB per day facebook, tiktok, instagram, games + 1.5GB for all sites and apps"},
+					{"keyword" : "SurfSaya199", "register" : "via *123", "details" : "P199, 30 days unlimited all-net calls and texts<br />600MB data, 200MB per day facebook, tiktok, instagram, games + 2GB for all sites and apps"}
+				]
+			}
+		]
+	}
+]
