@@ -1,0 +1,49 @@
+[
+	{"network" : "Touch Mobile (TM)", 
+		"promos" : [
+			{"title" : "Call & Text Promos",
+				"promo" : [
+					{"keyword" : "ASTIGTXT30", "register" : "8080", "details" : "P30, 5 days unlimited text sa TM/Globe"},
+					{"keyword" : "CA10", "register" : "8080", "details" : "P10, 1 day unlimited text sa TM/Globe, 50 all-net texts"},
+					{"keyword" : "CA20", "register" : "8080", "details" : "P20, 3 days unlimited text to TM/Globe, 50 all-net texts"},
+					{"keyword" : "COMBO15", "register" : "8080", "details" : "P15, 2 days unlimited all-net text, 120 mins calls to TM/Globe"},
+					{"keyword" : "COMBO20", "register" : "8080", "details" : "P20, 3 days unlimited all-net text, 120 mins calls to TM/Globe"},
+					{"keyword" : "U15", "register" : "8080", "details" : "P15, 1 day unlimited calls to TM/Globe"},
+					{"keyword" : "T10", "register" : "8080", "details" : "P10, 2 days unlimited text to TM/Globe"}
+				]
+			},
+			{"title" : "All-Net Promos",
+				"promo" : [
+					{"keyword" : "ALL-Net Surf 30", "register" : "8080", "details" : "3 days unlimited calls and texts to all networks<br />750MB all apps and sites + 150MB per day facebook, tiktok, youtube, etc sites"},
+					{"keyword" : "ALL-Net Surf 20", "register" : "8080", "details" : "2 days unlimited calls and texts to all networks<br />300MB all apps and sites + 150MB per day facebook, tiktok, youtube, etc sites"}
+				]
+			},
+			{"title" : "Mobile Internet",
+				"promo" : [
+					{"keyword" : "SUPERSURF50", "register" : "8080", "details" : "P50, 1 day unlimited mobile internet"},
+					{"keyword" : "SUPERSURF200", "register" : "8080", "details" : "P200, 5 days unlimited mobile internet"},
+					{"keyword" : "FB10", "register" : "8080", "details" : "P10, 3 days 1GB allocation"},
+					{"keyword" : "FB15", "register" : "8080", "details" : "P15, 2 days 200MB allocation"},
+					{"keyword" : "FB30", "register" : "8080", "details" : "P30, 3 days 300MB allocation<br />Unlimited all-net text"},
+					{"keyword" : "EASYSURF50", "register" : "8080", "details" : "P50, 5GB data allocation"},
+					{"keyword" : "EASYSURF75", "register" : "8080", "details" : "P75, 8GB data allocation"},
+					{"keyword" : "GG30", "register" : "8080", "details" : "P30, 3 days 300MB for games<br />Unlimited all-net text"},
+					{"keyword" : "GG50", "register" : "8080", "details" : "P50, 5 days 500MB for games<br />Unlimited all-net text"},
+					{"keyword" : "GG30", "register" : "8080", "details" : "P30, 3 days 300MB for games<br />Unlimited all-net text"},
+					{"keyword" : "GAMES15", "register" : "8080", "details" : "P15, 1 day 100MB for games"},
+					{"keyword" : "GAMES20", "register" : "8080", "details" : "P20, 2 days 100MB for games"},
+					{"keyword" : "GAMES50", "register" : "8080", "details" : "P50, 7 days 300MB for games"},
+					{"keyword" : "GAMES99", "register" : "8080", "details" : "P99, 30 days 300MB for games"}
+				]
+			},
+			{"title" : "International and Roaming Promos",
+				"promo" : [
+					{"keyword" : "GOCALLIDD30", "register" : "143", "details" : "P30, 7 days P5 per minute calls to Middle East and Europe"},
+					{"keyword" : "T30", "register" : "8080", "details" : "P30, 1 day 4 minutes IDD calls"},
+					{"keyword" : "ROAM SURF399", "register" : "8080", "details" : "P399, 1 day 1GB roaming data"},
+					{"keyword" : "ROAM SULITTXT99", "register" : "8080", "details" : "P99, 1 day 10 all-net texts"}
+				]
+			}
+		]
+	}
+]
