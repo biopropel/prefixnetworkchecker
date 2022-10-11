@@ -1,0 +1,36 @@
+[
+	{"network" : "Globe", 
+		"promos" : [
+			{"title" : "GO Sakto Promos",
+				"promo" : [
+					{"keyword" : "GOSakto70", "register" : "#143", "details" : "P70, 7 days unlimited text to all network<br />1GB data<br />1GB daily for GoWATCH&PLAY + GoSHARE&SHOP<br />1GB GoWifi access"},
+					{"keyword" : "GOSakto90", "register" : "#143", "details" : "P90, 7 days unlimited text to all network<br />2GB data<br />1GB daily for GoWATCH&PLAY + GoSHARE&SHOP<br />1GB GoWifi access"},
+					{"keyword" : "GOSakto120", "register" : "#143", "details" : "P120, 7 days unlimited text to all network<br />3GB data<br />1GB daily for GoWATCH&PLAY + GoSHARE&SHOP<br />1GB GoWifi access"},
+					{"keyword" : "GOSakto140", "register" : "#143", "details" : "P140, 7 days unlimited text to all network<br />4GB data<br />1GB daily for GoWATCH&PLAY + GoSHARE&SHOP<br />1GB GoWifi access"}
+				]
+			},
+			{"title" : "GOSURF Promos",
+				"promo" : [
+					{"keyword" : "GoSURF15", "register" : "8080", "details" : "P15, 2 days 100MB data"},
+					{"keyword" : "GoSURF50", "register" : "8080", "details" : "P50, 3 days unlimited text to all network<br />2GB data"},
+					{"keyword" : "GoSURF299", "register" : "8080", "details" : "P299, 30 days 2GB data"},
+					{"keyword" : "GoSURF599", "register" : "8080", "details" : "P599, 30 days 5GB data"},
+					{"keyword" : "GoSURF999", "register" : "8080", "details" : "P999, 30 days 10GB data"},
+					{"keyword" : "GoSURF1299", "register" : "8080", "details" : "P1299, 30 days 15GB data"},
+					{"keyword" : "GoSURF1999", "register" : "8080", "details" : "P1999, 30 days 30GB data"},
+					{"keyword" : "GoSURF2499", "register" : "8080", "details" : "P2499, 30 days 50GB data"}
+				]
+			},
+			{"title" : "GO Unli Promos",
+				"promo" : [
+					{"keyword" : "GoUNLI20", "register" : "via new GlobeOne app", "details" : "P20, 1 day unlimited calls and texts to all network <br />50MB mobile internet"},
+					{"keyword" : "GoUNLI30", "register" : "via new GlobeOne app", "details" : "P30, 2 days unlimited calls and texts to all network <br />100MB mobile internet"},
+					{"keyword" : "GoUNLI50", "register" : "via new GlobeOne app", "details" : "P50, 3 days unlimited calls and texts to all network <br />500MB mobile internet"},
+					{"keyword" : "GoUNLI95", "register" : "via new GlobeOne app", "details" : "P95, 7 days unlimited calls and texts to all network <br />1GB mobile internet"},
+					{"keyword" : "GoUNLI180", "register" : "via new GlobeOne app", "details" : "P180, 15 days unlimited calls and texts to all network <br />2GB mobile internet"},
+					{"keyword" : "GoUNLI350", "register" : "via new GlobeOne app", "details" : "P350, 30 days unlimited calls and texts to all network <br />3GB mobile internet"}
+				]
+			}
+		]
+	}
+]
